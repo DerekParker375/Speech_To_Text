@@ -12,7 +12,7 @@ import com.google.gson.Gson;
 public final class App {
     public static void main(String[] args) throws Exception {
         // Create a new Transcript object
-        System.out.println("Version 1 for git tutorial");
+        System.out.println("Version 2 for git tutorial");
 
         Transcript transcript = new Transcript();
         
